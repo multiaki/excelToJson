@@ -1,0 +1,24 @@
+{
+  data: [
+    {
+      name: 'shashank',
+      dob: '36087'
+    },
+    {
+      name: 'prakash',
+      dob: '35142'
+    },
+    {
+      name: 'sharma',
+      dob: '36379'
+    },
+    {
+      name: 'ashu ',
+      dob: '33059'
+    },
+    {
+      name: 'vikram',
+      dob: '33975'
+    }
+  ]
+}
